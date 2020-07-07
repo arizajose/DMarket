@@ -1,0 +1,22 @@
+Comandos básicos de consola linux (GIT)
+teclado TAB sirve como autocompletado
+cd : moverse entre directorios(carpetas)
+ -cd .. : mueve un nivel superior
+ -cd nombre_directorio: mueve a una carpeta especifica
+
+ls: muestra el contenido de un directorio o ubicación
+ * ls -al: muestra tanto el contenido visible como no visible( .git)
+
+mkdir nombre_carpeta: crea carpetas(directorios)
+
+touch nombre_archivo: crear archivos de texto vacios
+
+rm nombre_carpeta: elimina archivos
+
+rmdir nombre_carpeta: elimina carpetas(directorios) vacíos
+
+rm -R nombre_carpeta: elimina la carpeto y todo su contenido
+
+cat nombre_archivo: muestra el contenido de un archivo de texto plano
+
+clear: limpia la pantalla de la consola
