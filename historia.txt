@@ -3,3 +3,5 @@ Antonio Ariza es un usuario que contribuye a este proyecto open source.
 Ejemeplo de historia de cambios con rebase
 
 Master 1
+
+Master 2
