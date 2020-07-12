@@ -16,7 +16,7 @@ El cliente puede hacer:
   de ellas.
 -  Editar su perfil y  datos personales de su cuenta a libertad.
 
-##Vendedor
+## Vendedor
 El registro de cuenta del vendedor es similar al del cliente con la diferencia de que
 debe de poseer un RUC de manera obligatoria.
 El vendedor puede hacer:
