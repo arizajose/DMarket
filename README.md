@@ -25,4 +25,5 @@ El vendedor puede hacer:
 - Tener secciones de novedades y ofertas para poder captar la atención de los clientes.
 - Editar su perfil y datos personales de su cuenta a libertad.
 - Pago en dólares mijo!
+- Sale oferta al 2 x 1!
 
