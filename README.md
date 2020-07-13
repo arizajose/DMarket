@@ -26,4 +26,5 @@ El vendedor puede hacer:
 - Editar su perfil y datos personales de su cuenta a libertad.
 - Pago en dólares mijo!
 - Sale oferta al 2 x 1!
+- Disponible para todas las plataformas.
 
