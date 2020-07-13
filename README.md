@@ -24,4 +24,5 @@ El vendedor puede hacer:
    eliminarlos en su tienda virtual.
 - Tener secciones de novedades y ofertas para poder captar la atención de los clientes.
 - Editar su perfil y datos personales de su cuenta a libertad.
+- Pago en dólares mijo!
 
